@@ -1,0 +1,30 @@
+body{
+background-color: chocolate;
+
+}
+ul{
+ background-color: blue;width:30%;margin-left: 35%; margin-top: 15%;
+ text-decoration:double;
+ text-transform: uppercase;
+ text-decoration-line: line-through;
+ 
+ 
+
+
+}
+ul ul{
+    color: red;
+    background-color: aqua;width: 50%;
+    text-align: center;
+
+}
+ul ul ul{
+    color: green;
+    background-color: black;
+}
+p{
+color: aliceblue;
+background-color: blueviolet;margin-right: 10px;
+
+}
+#asd{font-size: 180%;}
