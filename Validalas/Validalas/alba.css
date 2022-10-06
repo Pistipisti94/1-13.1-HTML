@@ -1,0 +1,24 @@
+body{
+    color: #00008B;
+    background-color:#87CEFA;
+}
+.tabla{
+    margin-left: 5%;
+    width:90% ;
+    border: 0;
+}
+.szoveg{
+    text-align: justify;
+    width: 100%;
+}
+
+h1{
+    text-align: left;
+}
+.jobb{
+    text-align: right;
+
+}
+.dkep{
+    text-align: center;
+}
