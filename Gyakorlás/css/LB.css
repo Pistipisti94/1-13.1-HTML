@@ -1,0 +1,20 @@
+body{
+    
+    text-align: center;
+    
+    
+}
+img{width: 125px;}
+.fo{width: 225px;}
+table,tr,td{
+   border: 0px;
+    border-collapse: collapse;
+}
+
+.h1{
+    color: #999999;
+    size: 100%;
+}
+p{
+    size: 50%;
+}
