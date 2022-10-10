@@ -1,20 +1,7 @@
-body{
-    
-    text-align: center;
-    
-    
-}
-img{width: 125px;}
-.fo{width: 225px;}
-table,tr,td{
-   border: 0px;
-    border-collapse: collapse;
-}
-
-.h1{
-    color: #999999;
-    size: 100%;
-}
-p{
-    size: 50%;
-}
+body{width: 1000px;margin-left: 20%;}
+h1{color:#999999 ;}
+table,tr,td{border: 0px;}
+tr{width: 125px;}
+td{text-align: left;}
+.jobb{text-align: right;}
+.bal{text-align: left;}
