@@ -1,12 +1,17 @@
-body{background-color:  #E7E7FF; color:  #1D1D4E;width: 800px; margin-left: 600px;;}
+body{background-color:  #E7E7FF; color:  #1D1D4E;width: 800px;margin-left: auto;margin-right: auto;}
 h1{text-align: center;}
 .balkep{width:200px;}
-.jobbkep{width: 400px;float: right;margin-left:}
-.table,td,tr{border: 1px solid;}
+.jobbkep{width: 360px;float: right;margin-top: 10px;}
+td,tr{border: 1px solid;width: 380px;}
 .tbg{background-color: black; color: white; text-align: center;}
-.tj{text-align: right; font-weight: 1000;}
-.tb{ text-align: left;}
-.asd{padding: 1px;}
+.tj{text-align: right; font-weight: 1000;padding-right: 10px;}
+.tb{ text-align: left; padding-left: 10px;}
+.asd{padding: 1px;padding-right: 10px; padding-left: 10px;}
 .kep{border:1px solid;border-color: #1D1D4E}
-p{text-align: center;}
+.wtf{margin-bottom: -180px;}
+.cim{margin-left: 220px;}
+.szoveg{text-align: left;margin-left: 210px; margin-top: -10px;}
+.jo{margin-left: -210px;}
+.link{text-align: center;}
+.csik{background-color: black;height: 1px; margin-top: 10px; margin-left: 90px; margin-right: 90px;}
 
