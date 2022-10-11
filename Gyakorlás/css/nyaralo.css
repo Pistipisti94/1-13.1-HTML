@@ -1,0 +1,13 @@
+body{background-color: #ccffcc; margin-top:25px ;margin-bottom:100px; margin-left:240px; margin-right:240px;color:#004400;}
+a{color: #007700;}
+h1,h2{text-align: center;}
+.kep{float:center;width:150px; height:120px ;border:0px}
+.jobb{text-align: right;}
+.jobb2{float: right;width: 160px;}
+.bal{text-align: left;}
+.kozep{text-align: center;}
+.kozep2{text-align: center;width: 120px;}
+.mg{margin-left: auto;margin-right: auto; border: 0px;}
+.mg2{margin-left: auto;margin-right: auto; border:solid 2px; width: 480px;}
+.mg2 td, .mg2 th{border: solid 1px;}
+.font{font-size: larger;}
