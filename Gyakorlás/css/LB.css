@@ -1,7 +1,19 @@
-body{width: 1000px;margin-left: 20%;}
+body{width: 1000px;margin-left: 20%;font-family: Arial, Helvetica;}
 h1{color:#999999 ;}
-table,tr,td{border: 0px;}
+table,tr,td{border: 0px solid;}
 tr{width: 125px;}
 td{text-align: left;}
 .jobb{text-align: right;}
 .bal{text-align: left;}
+.ossz{width: 10px;}
+.elso{width: 210px;}
+.fo{color: #999999; font-size:35px; }
+.szoveg{font-size: medium;}
+img{font-size: 125px;}
+.t1{font-size: 90%;
+text-align: left;
+color:  #CC0000;}
+.t2{font-size: 90%;
+text-align: right;}
+.fel{margin-top: -180px;}
+.kk{width: 125px;}
