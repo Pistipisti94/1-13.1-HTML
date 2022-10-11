@@ -1,0 +1,9 @@
+body{background-color: #ddffdd;color: #002200;margin-left: auto;margin-right: auto;width: 800px;font-family:'Times New Roman', Times, serif;}
+h1{text-align: center;}
+li{font-weight: bold;}
+.B{font-weight: bold;}
+.bent{margin-left: 50px;}
+.kkep{float: right;width: 120px;}
+.terkep{margin-left: 20%;}
+table{border: 0px solid;}
+li{list-style-type: none;font-size: 200%;padding-left: 12px;}
