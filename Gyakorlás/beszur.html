@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>beszurt_szamlalo</title>
+    <style>
+        body{counter-reset: szamlalo;}
+
+        p:before{counter-increment: szamlalo;
+                content: "bekezdes "counter(szamlalo)". ";    }
+    </style>
+
+</head>
+<body>
+   <p>A bekezdés szövege...</p>
+   <p>A bekezdés szövege...</p>
+   <p>A bekezdés szövege...</p>
+</body>
+</html>
